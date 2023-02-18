@@ -21,9 +21,7 @@ const Simulations = {
     DELETE: 'deletar o progresso',
     SOMETHING: 'uma coisa',
     LOCALSTORAGE_ERROR:
-      `<p>Não é possível acessar o armazenamento local. Verifique se você ativou os cookies do armazenamento local / de terceiros e tente novamente.</p>
-      <p>
-      Se o erro persistir, sinta-se à vontade para <a target="_blank" href="#">reportar isso.</a></p>`,
+      `<p>Não é possível acessar o armazenamento local. Verifique se você ativou os cookies do armazenamento local / de terceiros e tente novamente.</p>`,
     DEAD_END_ERROR:
       `Hoje não é seu dia de sorte. Atualize a página e tente novamente.`
   }
